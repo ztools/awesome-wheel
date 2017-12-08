@@ -8,7 +8,7 @@
 
 [AdminLTE 一个漂亮的后台管理系统模板](http://adminlte.io)
 
-[ACE 模板](http://www.ace.com)
+[ACE 模板](http://ace.jeka.by)
 
 ## 移动框架
 
